@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: username, email, uid
+Author: Dominique, email, uid
 #Date:June 2022
 ##Qa java app deployment
 if
